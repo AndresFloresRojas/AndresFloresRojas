@@ -10,6 +10,7 @@
   - 
 <b>Honors Program</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - MENCIONAR LO QUE HE TRABAJADO EN R Y PONER EL ARCHIVO DE QGIS.
 
 
 <h2> 🐍 Work / Personal Python Projects:</h2>
