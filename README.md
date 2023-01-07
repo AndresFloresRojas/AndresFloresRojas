@@ -39,8 +39,8 @@
 
 <h2> 📲 Connect with me:</h2>
 
-[<img align="left" alt="AndresFlores | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AndresFlores | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="centre" alt="AndresFlores | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="cemtre" alt="AndresFlores | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/andres_flores_rojass/
 [linkedin]: https://www.linkedin.com/in/andres-flores-rojas/
