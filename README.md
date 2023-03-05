@@ -1,9 +1,12 @@
 <h1>¡Hola! Soy Andrés <br/><a href="https://www.linkedin.com/in/andres-flores-rojas/">LinkedIn</a> | <a>andres.floresrs@udlap.mx</a></h1>
 
 <h2> 📊 Proyectos:</h2>
-<h3> 📊 Trabajo:</h3>
-<h3> 📊 Universidad (Programa de Honores y Cursos):</h3>
-<h3> 📊 Personales:</h3>
+
+<h4> 💼 Trabajo:</h4>
+
+<h4> 📚 Universidad (Programa de Honores y Cursos):</h4>
+
+<h4> 💻 Personales:</h4>
 
 
 
