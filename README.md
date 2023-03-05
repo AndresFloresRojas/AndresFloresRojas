@@ -11,8 +11,6 @@
   - Algunos scripts (C++, Python, Swift) realizados en cursos: https://replit.com/@AndrewFR309?path= 
 
 
-<h4> 💻 Personales:</h4>
-
 
 
 <h2> 📲 Connect with me:</h2>
