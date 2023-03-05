@@ -5,43 +5,11 @@
 <h4> 💼 Trabajo:</h4>
 
 <h4> 📚 Universidad (Programa de Honores y Cursos):</h4>
-
-<h4> 💻 Personales:</h4>
-
-
-
-
-<b>Python / SQL</b>
-  - PROJECTOS
-  - 
-<b>Statistics</b>
-  - PROJECTOS
-  - 
-<b>Honors Program</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - MENCIONAR LO QUE HE TRABAJADO EN R Y PONER EL ARCHIVO DE QGIS.
 
 
-<h2> 🐍 Work / Personal Python Projects:</h2>
+<h4> 💻 Personales:</h4>
 
-- <b>Work</b>
-  - PROJECTOS
-  - 
-- <b>Personal</b>
-  - PROJECTOS
-  - 
-
-<h2> 👨🏻‍💻 University Projects:</h2>
-
-
-- <b>Python</b>
-  - PROJECTOS
-  - 
-- <b>C++</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-- <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 📲 Connect with me:</h2>
@@ -51,18 +19,3 @@
 
 [instagram]: https://www.instagram.com/andres_flores_rojass/
 [linkedin]: https://www.linkedin.com/in/andres-flores-rojas/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
