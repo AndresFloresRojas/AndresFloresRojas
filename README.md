@@ -5,7 +5,10 @@
 <h4> 💼 Trabajo:</h4>
 
 <h4> 📚 Universidad (Programa de Honores y Cursos):</h4>
-  - MENCIONAR LO QUE HE TRABAJADO EN R Y PONER EL ARCHIVO DE QGIS.
+
+  - 
+  - QGIS (análisis espacial de servicios de salud en Puebla, México): 
+  - Algunos scripts (C++, Python, Swift) realizados en cursos: https://replit.com/@AndrewFR309?path= 
 
 
 <h4> 💻 Personales:</h4>
