@@ -13,6 +13,6 @@
 
 <h4> 📲 Connect with me:</h4>
 
-- instagram: https://www.instagram.com/andres_flores_rojass/
+- Instagram: https://www.instagram.com/andres_flores_rojass/
 
-- linkedin: https://www.linkedin.com/in/andres-flores-rojas/
+- Linkedin: https://www.linkedin.com/in/andres-flores-rojas/
