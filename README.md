@@ -4,11 +4,12 @@
 
 <h4> 💼 Trabajo:</h4>
 
+- Portafolio de proyectos: [[https://www.notion.so/Project-Portfolio-3b76d42174cc4504aff4a6a696bd895b](https://puffy-slayer-e5e.notion.site/Project-Portfolio-3b76d42174cc4504aff4a6a696bd895b)](https://puffy-slayer-e5e.notion.site/Project-Portfolio-3b76d42174cc4504aff4a6a696bd895b)
+
 <h4> 📚 Universidad (Programa de Honores y Cursos):</h4>
 
-  - [[https://www.notion.so/Project-Portfolio-3b76d42174cc4504aff4a6a696bd895b](https://puffy-slayer-e5e.notion.site/Project-Portfolio-3b76d42174cc4504aff4a6a696bd895b)](https://puffy-slayer-e5e.notion.site/Project-Portfolio-3b76d42174cc4504aff4a6a696bd895b)
   - QGIS (análisis espacial de servicios de salud en Puebla, México): 
-  - Algunos scripts (C++, Python, Swift) realizados en cursos: https://replit.com/@AndrewFR309?path= 
+  - Scripts (C++, Python, Swift) realizados en cursos: https://replit.com/@AndrewFR309?path= 
 
 
 
