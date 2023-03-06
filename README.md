@@ -13,5 +13,5 @@
 
 <h4> 📲 Connect with me:</h4>
 
-[instagram]: https://www.instagram.com/andres_flores_rojass/
-[linkedin]: https://www.linkedin.com/in/andres-flores-rojas/
+instagram: https://www.instagram.com/andres_flores_rojass/
+linkedin: https://www.linkedin.com/in/andres-flores-rojas/
