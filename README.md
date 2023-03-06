@@ -11,10 +11,7 @@
   - Programa de Honores: https://puffy-slayer-e5e.notion.site/Programa-de-Honores-c8da4877546d466f85fb75dd411b948b
   - Scripts (C++, Python, Swift) realizados en cursos: https://replit.com/@AndrewFR309?path= 
 
-<h2> 📲 Connect with me:</h2>
-
-[<img align="centre" alt="AndresFlores | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="cemtre" alt="AndresFlores | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h4> 📲 Connect with me:</h4>
 
 [instagram]: https://www.instagram.com/andres_flores_rojass/
 [linkedin]: https://www.linkedin.com/in/andres-flores-rojas/
