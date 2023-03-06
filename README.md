@@ -4,7 +4,7 @@
 
 <h4> 💼 Trabajo:</h4>
 
-- Portafolio de proyectos: https://puffy-slayer-e5e.notion.site/Trabajo-b90886bda8564e4b9f9a7f187b6c97c5
+- Portafolio de proyectos: <a href="https://puffy-slayer-e5e.notion.site/Trabajo-b90886bda8564e4b9f9a7f187b6c97c5">link</a> 
 
 <h4> 📚 Universidad (Programa de Honores y Cursos):</h4>
 
